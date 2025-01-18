@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkarbait_app"]=self["webpackChunkarbait_app"]||[]).push([[374],{374:function(n,t,a){a.r(t),a.d(t,{default:function(){return p}});var u=a(641),e=a(220),r={class:"home-page"},i=(0,u.pM)({__name:"HomePage",setup:function(n){var t=(0,e.rd)(),a=function(){t.push({path:"registration"})};return function(n,t){return(0,u.uX)(),(0,u.CE)("div",r,[t[0]||(t[0]=(0,u.Lk)("h1",null,"Home",-1)),(0,u.Lk)("button",{onClick:a},"Переход на регистрацию")])}}});const o=i;var p=o}}]);
+//# sourceMappingURL=374.f1c913de.js.map
