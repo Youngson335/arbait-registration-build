@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkarbait_app"]=self["webpackChunkarbait_app"]||[]).push([[908],{908:function(a,n,e){e.r(n),e.d(n,{default:function(){return i}});var r=e(641);const t={class:"home-page"};function u(a,n,e,u,c,s){return(0,r.uX)(),(0,r.CE)("div",t,n[0]||(n[0]=[(0,r.Lk)("h1",null,"Home",-1)]))}var c={},s=e(262);const p=(0,s.A)(c,[["render",u]]);var i=p}}]);
+//# sourceMappingURL=908.554d9ff4.js.map
