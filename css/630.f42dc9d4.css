@@ -1,0 +1,1 @@
+.home-page__title{margin-bottom:20px}.home-page__description{display:flex;align-items:self-start;justify-content:start;gap:50px;flex-wrap:wrap;text-align:start}.home-page__info{width:30%;background:#ffdc2d;padding:20px;min-height:230px;border-radius:10px}@media(max-width:860px){.home-page__info{width:100%}}.home-page__info img{width:40px}.home-page__info p{font-size:25px}
